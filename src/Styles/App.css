@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "PressStart2P-Regular";
+  src: url(Fonts/PressStart2P/PressStart2P-Regular.ttf);
+}
+
+.App {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 1920px;
+  font-family: "PressStart2P-Regular";
+  background-color: rgb(248, 206, 206);
+}
+
+.flex-center-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+.dark-mode {
+  background-color: rgb(44, 44, 44);
+}
+
+.dark-mode h1,
+.dark-mode a {
+  color: aliceblue;
+}
+
+.dark-mode .shop-item {
+  border: 5px solid blue;
+  color: blue;
+}
+
+.dark-mode .shop-item:hover {
+  background-color: rgb(117, 185, 224);
+}

@@ -1,0 +1,38 @@
+.header-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0.5rem;
+    height: 15rem;
+    background-image: url(../../Img/WoodenSign.png);
+    background-position: 50% 32%;
+    background-repeat: no-repeat;
+    background-size: 80rem 21rem;
+}
+
+.header-coin {
+    width: 50px;
+    height: 50px;
+    margin: 0 1rem;
+    animation: gold-shine 5s infinite ease-in-out;
+}
+
+@keyframes gold-shine {
+    50% {
+        box-shadow: 0 0 50px gold;
+    }
+}
+
+header h1 {
+    font-size: 2rem;
+    color: gold;
+    margin: 1rem 0;
+    text-shadow: 4px 4px darkgoldenrod;
+    animation: text-flow 5.5s infinite ease-in-out;
+}
+
+@keyframes text-flow {
+    50% {
+        font-size: 2.2rem;
+    }
+}

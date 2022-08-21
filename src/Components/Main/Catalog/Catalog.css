@@ -1,0 +1,53 @@
+.shop-item-list {
+    padding: 3.5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, auto));
+    grid-gap: 5rem;
+    justify-content: space-evenly;
+}
+
+.shop-item {
+    max-width: 320px;
+    width: 100%;
+    border: 5px solid;
+    padding: 1rem 0;
+    background-color: antiquewhite;
+    justify-content: space-between;
+}
+
+.shop-item:hover {
+    cursor: pointer;
+    background-color: aliceblue;
+}
+
+.shop-item > * {
+    margin: 0.5rem;
+}
+
+.item-name {
+    font-size: 1rem;
+    max-width: 336px;
+}
+
+.item-type {
+    font-size: 1rem;
+    text-shadow: 1.5px 1px black;
+    letter-spacing: 1px;
+}
+
+.item-desc {
+    font-size: 0.8rem;
+}
+
+.item-price {
+    font-size: 1rem;
+    text-shadow: 1px 2px black;
+    color: gold;
+}
+
+.item-image {
+    width: 15rem;
+    height: 15rem;
+    border: 3px solid;
+    background-color: rgb(162, 255, 255);
+}
