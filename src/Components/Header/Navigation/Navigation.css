@@ -28,7 +28,7 @@ li:hover a {
 li a {
     padding: 1.8rem;
     color: gold;
-    background-image: url(../../../Img/WoodenSign.png);
+    background-image: url(../../../Assets/WoodenSign.png);
     background-position: center;
     background-size: 100%;
 }

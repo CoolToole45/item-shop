@@ -5,11 +5,11 @@ export default function Navigation() {
         <div>
             <nav>
                 <ul>
-                    <li><a href="#">TEXT/TEXT</a></li>
-                    <li><a href="#">TEXT/TEXT</a></li>
-                    <li><a href="#">TEXT/TEXT</a></li>
-                    <li><a href="#">TEXT/TEXT</a></li>
-                    <li><a href="#">TEXT/TEXT</a></li>
+                    <li><a href="reload">TEXT/TEXT</a></li>
+                    <li><a href="reload">TEXT/TEXT</a></li>
+                    <li><a href="reload">TEXT/TEXT</a></li>
+                    <li><a href="reload">TEXT/TEXT</a></li>
+                    <li><a href="reload">TEXT/TEXT</a></li>
                 </ul>
             </nav>
         </div>

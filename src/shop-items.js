@@ -1,12 +1,12 @@
-import BluePotion from "./Img/BluePotion.png";
-import GreenPotion from "./Img/GreenPotion.png";
-import RedPotion from "./Img/RedPotion.png";
-import IronSword from "./Img/IronSword.png";
-import Stick from "./Img/Stick.png";
-import WoodenShield from "./Img/WoodenShield.png"
-import EnchantedIronSword from "./Img/EnchantedIronSword.png";
-import Potato from "./Img/Potato.png"
-import IronKatana from "./Img/IronKatana.png"
+import BluePotion from "./Assets/BluePotion.png";
+import GreenPotion from "./Assets/GreenPotion.png";
+import RedPotion from "./Assets/RedPotion.png";
+import IronSword from "./Assets/IronSword.png";
+import Stick from "./Assets/Stick.png";
+import WoodenShield from "./Assets/WoodenShield.png"
+import EnchantedIronSword from "./Assets/EnchantedIronSword.png";
+import Potato from "./Assets/Potato.png"
+import IronKatana from "./Assets/IronKatana.png"
 
 export default [
     {
